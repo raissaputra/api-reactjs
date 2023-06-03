@@ -3,6 +3,15 @@ body {
   font-family: 'Public Sans', sans-serif;
 }
 
+.navbar {
+  background-color: slategray;
+}
+
+.category-aktif{
+  background-color: slategray;
+  color: white;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

@@ -8,9 +8,9 @@ import {
 
 const NavbarComponent = () => {
   return (
-    <Navbar bg="dark" variant="primary" expand="lg">
+    <Navbar className="navbar" bg="light" variant="secondary" expand="lg">
       <Container>
-        <Navbar.Brand href="#home"><strong>TOKO-</strong>RR</Navbar.Brand>
+        <Navbar.Brand href="#home"><strong>Cashier</strong>App</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
